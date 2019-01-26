@@ -4,3 +4,4 @@ puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 end
+isplay_board
