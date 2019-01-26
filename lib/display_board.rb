@@ -4,4 +4,4 @@ puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 end
-isplay_board
+display_board
